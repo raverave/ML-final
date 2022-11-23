@@ -1,0 +1,35 @@
+const data = [
+  {name:"Mereka sering memanggil saya, Jonny."}, 
+	{hobby:"Haha.. saya suka membaca pikiran kamu :)."}, 
+	{human:"Saya adalah chatbot, dapat memberikan informasi."},
+	{okey:"Okey, kamu luar biasa. Salam sukses !!!"},
+	{greetings:"hallo, semoga kamu baik-baik saja."},
+	{thanks:"Iya, sama-sama ya."},
+	{hi:"Hi juga. Semoga harimu menyenangkan."},
+	{condition:"Saya adalah chatbot. Pastinya saya sehat."},
+  {best: `Tentu saja di Indonesia.`},
+  {worried:`Tenang saja, harga tempat wisata terjangkau kok.`},
+  {range:`Kisaran harga mulai Rp200,000 sampai Rp12,000,000.`},
+  {weather:`Mohon maaf, tapi sekarang adalah musim hujan sehingga akan banyak turun hujan.`},
+  {food:`Di Indonesia tersedia bermacam-macam varian makanan dari masing-masing daerah.`},
+  {beach:`3 Pantai paling terkenal di Indonesia adalah Pantai Nusa Dua di Bali, Pantai Merah di Lombok, dan Pantai Trikora di Bintan.`},
+  {zoo:`3 Kebun binatang paling terkenal di Indonesia adalah Taman Margasatwa di Jakarta, Batu Secret Zoo di Jawa Timur dan Taman Safari di Bogor.`},
+  {mountainH:`3 Gunung tertinggi di Indonesia adalah Puncak Jaya Wijaya dengan ketinggian 4.884m, Gunung Kerinci dengan ketinggian 3.805mdpl, dan Gunung Rinjani dengan ketinggian 3.762m.`},
+  {mountainF:`3 Gunung yang paling terkenal di Indonesia adalah Gunung Rinjani di Lombok, Gunung Bromo di Jawa Timur, dan Gunung Jaya Wijaya di Papua Barat.`},
+  {reef:`3 Terumbu karang yang paling terkenal di Indonesia terdapat di Taman Laut Bunaken di Manado, Taman Laut Raja Ampat dan Taman Laut Wakatobi di Sulawesi Tenggara`},
+  {cities:`Kota - kota yang paling terkenal di Indonesia adalah Bali, Jakarta, Surabaya, Medan, Makassar, Bandung, dan Batam.`},
+  {bali:`Bali memiliki banyak tempat wisata, beberapa yang terkenal contohnya, Pura Tanah Lot, Nusa Dua Beach dan Pantai Kuta.`},
+  {jakarta:`Bukan hanya sebagai ibukota, Jakarta memiliki banyak tempat wisata seperti Taman Mini, Aquarium Jakarta, dan Kebun Binatang Ragunan`},
+  {surabaya:`Surabaya memiliki beberapa tempat wisata seperti, Hutan Bambu Keputih, Tugu Pahlawan, dan Kebun Binatang Surabaya`},
+  {medan:`Medan memiliki beberapa tempat wisata seperti, Danau Toba, Menara Padang Tele dan Pantai.`},
+  {makassar:`Makassar memiliki beberapa tempat wisata seperti, Taman Batu Balocci, Tebing Apparalang, dan Pulau Kambing.`},
+  {bandung:`Bandung memiliki beberapa tempat wisata seperti, Kampung Cai Ranca Upas, Kawah Putih Ciwidey, dan Orchid Forest Cikole`},
+  {batam:`Batam memiliki beberapa tempat wisata seperti, Pulau Ranoh, Seaforest Adventure, dan Taman Kelinci.`},
+  {history:`Indonesia memiliki banyak tempat bersejarah seperti Borobudur, Candi Prambanan dan Monas.`},
+  {animal:`Indonesia memiliki beberapa hewan yang hanya bisa ditemui di Indonesia sendiri, contohnya Komodo, Tarsius dan Harimau Sumatra.`},
+  
+  {makian:`Maaf, disini tidak melayani kata kotor`},
+  { waktu: `Waktu hari ini adalah ${new Date()}.` }
+];
+
+export default data;
